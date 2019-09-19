@@ -1,0 +1,19 @@
+OBS as aspas sao para descrever o que vai ser escrito, mas nao deve ser usado na tela preta
+para deslogar outras contas do github:
+
+-Direita do mouse
+-Git bash here
+-escreva: "git config --get user.name"
+-se tiver alguem, deslogue usando: "git config --unset user.name"
+e: "git config --unset user.email"
+
+se der falha no sistema, va pasta do arquivo:
+
+-Direita do mouse
+-Git bash here
+-inicialize o git: "git init"
+-remover usuario: "git config --unset user.name" e "git config --unset user.email"
+
+Adicionar o nome e email:
+"git config --global user.name "Marina Sales""
+"git config --global user.email "marinasalestorres@hotmail.com""

@@ -1,0 +1,53 @@
+body {
+color: purple;
+font-family: Verdana;
+}
+
+h2{
+border-style: ridge;
+}
+
+.imagem1{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction:column;
+}
+
+figcaption{
+font-style: italic;
+text-align: center;
+}
+
+.imagem_centro{
+width: 30%;
+background-color: grey;
+border-style: ridge;
+}
+
+#item{
+display: flex;
+justify-content: center;
+}
+
+#item img{
+width: 15%;
+}
+
+footer{
+height: 70px;
+width: 100%;
+text-align: center;
+background-color: grey;
+}
+
+#ico img{
+width: 5%;
+}
+
+#imagem_d{
+display: flex;
+align-items: right;
+justify-content: right;
+
+}
