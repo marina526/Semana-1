@@ -17,3 +17,14 @@ se der falha no sistema, va pasta do arquivo:
 Adicionar o nome e email:
 "git config --global user.name "Marina Sales""
 "git config --global user.email "marinasalestorres@hotmail.com""
+
+Adicionar todos os arquivos na minha pasta:
+"git add --all"
+
+Para adicionar um arquivo especifico:
+"git add pasta1/meuarquivo.txt" (se nao tiver dentro de nenhuma pasta, não é necessário descrever)
+
+
+
+
+
