@@ -1,4 +1,4 @@
-OBS as aspas sao para descrever o que vai ser escrito, mas nao deve ser usado na tela preta
+﻿OBS as aspas sao para descrever o que vai ser escrito, mas nao deve ser usado na tela preta
 para deslogar outras contas do github:
 
 -Direita do mouse
@@ -23,6 +23,7 @@ Adicionar todos os arquivos na minha pasta:
 
 Para adicionar um arquivo especifico:
 "git add pasta1/meuarquivo.txt" (se nao tiver dentro de nenhuma pasta, não é necessário descrever)
+Você irá se tornar uma programadora foda
 
 
 
